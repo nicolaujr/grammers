@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bin/scrape-docs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bin/tl-to-json/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-client/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-client/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-crypto/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-crypto/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-crypto/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-mtproto/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-mtproto/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-mtsender/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-mtsender/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-session/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-session/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-tl-gen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-tl-gen/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-tl-parser/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-tl-parser/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-tl-types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers-tl-types/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/grammers/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
